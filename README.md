@@ -24,7 +24,7 @@ I am a software engineering student, currently halfway through my degree. I am e
 
 ![My frameworks](https://go-skill-icons.vercel.app/api/icons?i=tailwind,react,vue,django,fastapi,flask,/n)
 ![My dbs](https://go-skill-icons.vercel.app/api/icons?i=postgres,mysql,mongodb,/n)
-![My technolgies](https://go-skill-icons.vercel.app/api/icons?i=figma,fedora,xcode,flutter,/n)
+![My technolgies](https://go-skill-icons.vercel.app/api/icons?i=figma,xcode,flutter,/n)
 
 
 ## Check out my Social Media
