@@ -18,13 +18,13 @@ I am a software engineering student, currently halfway through my degree. I am e
 
 <h4> Languages </h4>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,java,swift)](https://skillicons.dev)
 
 <h4> Frameworks & Technologies </h4>
 
 ![My frameworks](https://go-skill-icons.vercel.app/api/icons?i=tailwind,react,vue,django,fastapi,flask,/n)
 ![My dbs](https://go-skill-icons.vercel.app/api/icons?i=postgres,mysql,mongodb,/n)
-![My technolgies](https://go-skill-icons.vercel.app/api/icons?i=figma,fedora,/n)
+![My technolgies](https://go-skill-icons.vercel.app/api/icons?i=figma,fedora,xcode,flutter,/n)
 
 
 ## Check out my Social Media
