@@ -10,7 +10,7 @@ I am a software engineering student, currently halfway through my degree. I am e
   - Svelte
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help<br>
-- Outside tech, 💪I love work out, 🎵 listening to music, and 📖 study conspiracy theories and theology.
+- Outside tech, 💪I love work out, 🎵 listening to music, and 📖 reading sci-fi.
 - 👾 Additionally, I create content about programming/technology on my social media, so feel free to check out my profile!
 - 📫 Reach out to me at: <a href="eliascvrno@gmail.com">eliascvrno@gmail.com</a>
 
